@@ -1,4 +1,5 @@
 export const dynamic = 'force-static'
+
 import Image from 'next/image'
 
 import { Card } from '@/components/Card'
