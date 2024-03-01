@@ -1,3 +1,5 @@
+export const dynamic = 'force-static'
+
 import { Card } from '@/components/Card'
 import { Section } from '@/components/Section'
 import { SimpleLayout } from '@/components/SimpleLayout'

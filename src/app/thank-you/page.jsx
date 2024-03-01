@@ -1,3 +1,5 @@
+export const dynamic = 'force-static'
+
 import { SimpleLayout } from '@/components/SimpleLayout'
 
 export const metadata = {
